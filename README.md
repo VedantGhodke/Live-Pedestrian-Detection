@@ -1,14 +1,15 @@
-# Person detection from live cctv video per second
+# Live Pedestrian Detection Using Python and TensorFlow
 
-The project developed using TensorFlow to detect the no of people every second entering building gate. `work in progress`
+This project is developed using TensorFlow to detect the number of pedestrians entering a building complex. 
 
-### Python Packages Needed
+### Python Packages Needed:
 
 * <a href='https://github.com/tensorflow/tensorflow'>Tensorflow</a><br>
 * <a href='https://github.com/skvark/opencv-python'>openCV</a><br>
 * you must have pip and python pre installed if not install them first.
 
-## Installation instructions
+## Installation instructions:
+
 ``` bash
 # For CPU
 pip install tensorflow
@@ -45,4 +46,3 @@ As per the original implementation of the tensorflow object detection API, the b
 (left, right, top, bottom) = (xmin * im_width, xmax * im_width,
                               ymin * im_height, ymax * im_height)
 ```
-* Download and use, no license needed*
