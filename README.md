@@ -4,9 +4,10 @@ This project is developed using TensorFlow to detect the number of pedestrians e
 
 ### Python Packages Needed:
 
-* <a href='https://github.com/tensorflow/tensorflow'>Tensorflow</a><br>
-* <a href='https://github.com/skvark/opencv-python'>openCV</a><br>
-* you must have pip and python pre installed if not install them first.
+* You must have pip and Python pre-installed
+* <a href='https://github.com/tensorflow/tensorflow'>TensorFlow</a><br>
+* <a href='https://github.com/skvark/opencv-python'>OpenCV</a><br>
+
 
 ## Installation instructions:
 
